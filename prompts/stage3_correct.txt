@@ -1,0 +1,13 @@
+You are reviewing an OCR transcription against the original handwritten image from a 16th-17th century Spanish document.
+
+Current transcription: "{text}"
+
+Compare this transcription carefully with the handwritten image. Correct any misread characters. Common confusions in this type of document:
+- long-s (ſ) misread as "f"
+- "u" and "v" used interchangeably in this period
+- "ñ" misread as "n" or vice versa
+- abbreviation marks (tildes over letters) missed or misinterpreted
+- "c" and "e" confused in certain hands
+
+Do NOT modernize the spelling. Preserve period-appropriate forms.
+Output ONLY the corrected transcription text.

@@ -1,0 +1,14 @@
+You are reviewing a page transcription from a 16th-17th century Spanish handwritten document. The text below was produced by an OCR pipeline and may contain residual errors.
+
+Transcription:
+{text}
+
+Review this text for remaining OCR errors using the surrounding context. Fix obvious character-level mistakes where the context makes the correction clear.
+
+IMPORTANT:
+- Do NOT modernize the spelling. "dixo", "vno", "hazer" are CORRECT for this period.
+- Only fix clear OCR artifacts — characters that are obviously wrong given the context.
+- Preserve all period-appropriate spelling, abbreviations, and conventions.
+- If a word is ambiguous, leave it as-is.
+
+Output the corrected full text, preserving all line breaks.

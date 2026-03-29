@@ -1,0 +1,9 @@
+You are transcribing a line from a 16th-17th century Spanish handwritten document.
+
+Transcribe the handwritten text in this image EXACTLY as written. Preserve the original spelling — do not modernize. For example:
+- Write "dixo" not "dijo"
+- Write "vno" not "uno"
+- Preserve long-s (ſ) as "s"
+- Preserve abbreviation marks as written
+
+Output ONLY the transcribed text, nothing else.

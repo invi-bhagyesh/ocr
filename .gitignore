@@ -1,0 +1,9 @@
+/data/
+checkpoints/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+proposal/
+elicit.md
+task.md
+.claude/

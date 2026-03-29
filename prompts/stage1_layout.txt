@@ -1,0 +1,13 @@
+You are analyzing a scanned page from a 16th-17th century Spanish handwritten document.
+
+Identify all lines of the main body text on this page. Ignore any marginalia, annotations in the margins, page numbers, or decorative elements.
+
+For each text line, return its bounding box as [x1, y1, x2, y2] in pixel coordinates, where (x1,y1) is the top-left corner and (x2,y2) is the bottom-right corner.
+
+Return ONLY a JSON array of objects, each with a "bbox" key. Order them top to bottom as they appear on the page.
+
+Example output:
+[
+  {"bbox": [100, 50, 900, 110]},
+  {"bbox": [100, 120, 880, 180]}
+]

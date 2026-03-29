@@ -1,0 +1,14 @@
+torch>=2.1
+torchvision
+transformers>=4.40
+peft>=0.8
+bitsandbytes
+qwen-vl-utils
+pdf2image
+Pillow
+editdistance
+numpy
+pandas
+tqdm
+matplotlib
+google-generativeai
